@@ -18,7 +18,7 @@
   <text class="connect-enter" x="48" y="58" font-family="'connect-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#247bff">CONNECT</text>
   <g class="connect-pointer">
     <!--INLINE_IMAGE id=connect-pointer x=48 y=76 w=222 h=260 file=right_pointing.png mode=meet-->
-    <text x="159" y="362" text-anchor="middle" font-family="'connect-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f1ea" fill-opacity="0.5">assets/right_pointing.png</text>
+    <text x="159" y="362" text-anchor="middle" font-family="'connect-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#f4f1ea" fill-opacity="0.5"></text>
   </g>
   <a href="www.linkedin.com/in/alimumtaz0581" >
     <g class="connect-enter" style="animation-delay:0.20s">
