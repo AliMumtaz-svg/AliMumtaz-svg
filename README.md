@@ -16,9 +16,9 @@
 
 | Project | What it does | Link |
 |---|---|---|
-| Ai Base Resume Analyzer  | Ai_Base_Resume_Using_HTML,CSS_and_JavaScript | [Repo](REPLACE_WITH_PROJECT_1_URL) |
+| Ai Base Resume Analyzer  | Ai_Base_Resume_Using_HTML,CSS_and_JavaScript | [Repo](https://github.com/AliMumtaz-svg/AI-Base-Resume-Analyzer) |
 | Roll Dice | A simple and interactive Dice Roller App built using Flutter and Dart. Roll the dice with a button tap and enjoy a clean, user-friendly interface. | [Repo](https://github.com/AliMumtaz-svg/Flutter-dice-roll-app) |
-| Campus Management | [ACCURATE DESCRIPTION] | [Repo](REPLACE_WITH_PROJECT_3_URL) |
+| Campus Management | A University Event Management Website designed to organize and manage campus events efficiently.  | [Repo](https://github.com/AliMumtaz-svg/Campus-event-management) |
 
 <img src="assets/id-dashboard.svg?v=1" alt="Developer ID card on a lanyard" width="100%">
 
