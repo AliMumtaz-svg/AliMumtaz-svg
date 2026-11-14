@@ -16,7 +16,7 @@
 
 | Project | What it does | Link |
 |---|---|---|
-| Ai Base Resume Analyzer  | [ACCURATE DESCRIPTION] | [Repo](REPLACE_WITH_PROJECT_1_URL) |
+| Ai Base Resume Analyzer  | Ai_Base_Resume_Using_HTML,CSS_and_JavaScript | [Repo](REPLACE_WITH_PROJECT_1_URL) |
 | Roll Dice | [ACCURATE DESCRIPTION] | [Repo](REPLACE_WITH_PROJECT_2_URL) |
 | Campus Management | [ACCURATE DESCRIPTION] | [Repo](REPLACE_WITH_PROJECT_3_URL) |
 
