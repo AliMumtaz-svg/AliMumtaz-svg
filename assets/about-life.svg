@@ -44,18 +44,18 @@
   <rect x="675.33" y="84" width="102.67" height="4" rx="2" fill="#f4f1ea" fill-opacity="0.12"/>
   <rect class="about-bar about-b2" x="675.33" y="84" width="102.67" height="4" rx="2" fill="#247bff"/>
   <g class="about-slide about-s0">
-    <text x="458" y="150" font-family="'about-mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#ff354f">01 / 03</text>
-    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">[INTEREST 1]</text>
-    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.66">[ONE-LINE DETAIL]</text>
+    <text x="458" y="150" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#ff354f">01 / 03</text>
+    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">Artificial Intelligence</text>
+    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.46"><tspan x="458" dy="0">Exploring AI-powered applications</tspan><tspan x="458" dy="22">and intelligent solutions.</tspan></text>
   </g>
   <g class="about-slide about-s1">
-    <text x="458" y="150" font-family="'about-mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#ff354f">02 / 03</text>
-    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">[INTEREST 2]</text>
-    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.66">[ONE-LINE DETAIL]</text>
+    <text x="458" y="150" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#ff354f">02 / 03</text>
+    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">Web and Mobile</text>
+    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.66"><tspan x="458" dy="0">Building responsive websites</tspan><tspan x="458" dy="22">and user-friendly mobile applications.</tspan></text>
   </g>
   <g class="about-slide about-s2">
-    <text x="458" y="150" font-family="'about-mono',ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#ff354f">03 / 03</text>
-    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">[INTEREST 3]</text>
-    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.66">[ONE-LINE DETAIL]</text>
+    <text x="458" y="150" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#ff354f">03 / 03</text>
+    <text x="458" y="196" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#f4f1ea">Emerging Technologies</text>
+    <text x="458" y="230" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#f4f1ea" fill-opacity="0.66"><tspan x="458" dy="0">Discovering innovative technologies</tspan><tspan x="458" dy="22">and solving real-world problems.</tspan></text>
   </g>
 </svg>
