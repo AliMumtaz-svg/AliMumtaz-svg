@@ -28,13 +28,13 @@
   <rect x="1" y="1" width="828" height="338" rx="23" fill="#070b16" stroke="url(#about-hair)" stroke-width="1.5"/><rect x="1" y="1" width="828" height="338" rx="23" fill="url(#about-dots)"/>
   <g class="about-enter"><rect x="24" y="24" width="380" height="292" rx="22" fill="#0d1426"/><rect x="24.75" y="24.75" width="378.5" height="290.5" rx="22" fill="none" stroke="url(#about-hair)" stroke-width="1.5"/></g>
   <text class="about-enter" x="50" y="62" font-family="'about-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#247bff">CAPABILITIES</text>
-    <g class="about-enter" style="animation-delay:0.3s"><circle cx="52" cy="103" r="4" fill="#247bff"/><text x="70" y="108" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">[CAPABILITY 1]</text></g>
+    <g class="about-enter" style="animation-delay:0.3s"><circle cx="52" cy="103" r="4" fill="#247bff"/><text x="70" y="108" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">React.js and Frontend Development</text></g>
   <line x1="52" x2="356" y1="128" y2="128" stroke="#f4f1ea" stroke-opacity="0.1"/>
-  <g class="about-enter" style="animation-delay:0.4s"><circle cx="52" cy="151" r="4" fill="#247bff"/><text x="70" y="156" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">[CAPABILITY 2]</text></g>
+  <g class="about-enter" style="animation-delay:0.4s"><circle cx="52" cy="151" r="4" fill="#247bff"/><text x="70" y="156" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">Flutter and Dart Development</text></g>
   <line x1="52" x2="356" y1="176" y2="176" stroke="#f4f1ea" stroke-opacity="0.1"/>
-  <g class="about-enter" style="animation-delay:0.5s"><circle cx="52" cy="199" r="4" fill="#247bff"/><text x="70" y="204" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">[CAPABILITY 3]</text></g>
+  <g class="about-enter" style="animation-delay:0.5s"><circle cx="52" cy="199" r="4" fill="#247bff"/><text x="70" y="204" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">HTML, CSS and JavaScript</text></g>
   <line x1="52" x2="356" y1="224" y2="224" stroke="#f4f1ea" stroke-opacity="0.1"/>
-  <g class="about-enter" style="animation-delay:0.6s"><circle cx="52" cy="247" r="4" fill="#247bff"/><text x="70" y="252" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">[CAPABILITY 4]</text></g>
+  <g class="about-enter" style="animation-delay:0.6s"><circle cx="52" cy="247" r="4" fill="#247bff"/><text x="70" y="252" font-family="'about-display','Helvetica Neue',Arial,sans-serif" font-size="19" font-weight="600" fill="#f4f1ea">MY SQL</text></g>
   <g class="about-enter" style="animation-delay:.15s"><rect x="430" y="24" width="376" height="292" rx="22" fill="#0d1426"/><rect x="430.75" y="24.75" width="374.5" height="290.5" rx="22" fill="none" stroke="url(#about-hair)" stroke-width="1.5"/></g>
   <text class="about-enter" style="animation-delay:.15s" x="458" y="62" font-family="'about-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#247bff">INTERESTS</text>
     <rect x="458.00" y="84" width="102.67" height="4" rx="2" fill="#f4f1ea" fill-opacity="0.12"/>
