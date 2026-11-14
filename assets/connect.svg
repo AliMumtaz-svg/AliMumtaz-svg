@@ -52,7 +52,7 @@
       <rect x="574" y="217" width="232" height="169" rx="22" fill="#0d1426"/><rect x="574.75" y="217.75" width="230.5" height="167.5" rx="22" fill="none" stroke="url(#connect-hair)" stroke-width="1.5"/>
       <rect x="598" y="241" width="36" height="36" rx="9" fill="none" stroke="#f4f1ea" stroke-opacity="0.8" stroke-width="1.4"/><text x="616.0" y="265.0" text-anchor="middle" font-family="'connect-display','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#f4f1ea">T</text>
       <text x="598" y="317" font-family="'connect-display','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="700" fill="#f4f1ea">Topmate</text>
-      <text x="598" y="343" font-family="'connect-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#247bff">[TOPMATE HANDLE]</text>
+      <text x="598" y="343" font-family="'connect-mono',ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#247bff">aleyyy_dev</text>
       <text class="connect-nudge" style="animation-delay:0.75s" x="766" y="360" font-family="'connect-display','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#ff354f">&#8594;</text>
     </g>
   </a>
